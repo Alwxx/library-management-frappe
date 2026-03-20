@@ -1,7 +1,6 @@
-.DS_Store
+__pycache__/
 *.pyc
-*.egg-info
-*.swp
-tags
-library_management/docs/current
 node_modules/
+.env
+*.log
+.DS_Store
